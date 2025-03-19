@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <img src="https://sl.bing.net/kRIw9z38v5U" width="50">  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnloa293cHlydTczc2VvM3J3bWVncDM3a2l3OWM4NHNybjNoN2M3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="50">  
   Hey, I'm Bhavika! 👋  
 </h1>  
 
