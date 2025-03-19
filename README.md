@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnloa293cHlydTczc2VvM3J3bWVncDM3a2l3OWM4NHNybjNoN2M3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="50">  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnloa293cHlydTczc2VvM3J3bWVncDM3a2l3OWM4NHNybjNoN2M3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="100">  
   Hey, I'm Bhavika! 👋  
 </h1>  
 
@@ -11,10 +11,19 @@
 
 ## 🚀 About Me
 
+<table><tr>
+<td>
+
 🎓 **BTech Student at Indian Institute of Information Technology, Jabalpur**  
 💻 **Aspiring Software Engineer**  
 🌱 Passionate about **Data Structures & Algorithms, Web Development, and Open Source**  
 💡 Constantly learning and building projects to sharpen my skills  
+
+</td>
+<td>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnloa293cHlydTczc2VvM3J3bWVncDM3a2l3OWM4NHNybjNoN2M3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="200">  
+</td>
+</tr></table>
 
 ---  
 
