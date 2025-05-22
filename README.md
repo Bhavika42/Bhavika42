@@ -69,6 +69,13 @@ _(More projects coming soon... 🚀)_
 
 ---  
 
+### 🌟 Open Source Contributions
+
+- **[Awesome-DevOps](https://github.com/James-Kua/Awesome-DevOps)**  
+  Added [Meshery](https://github.com/meshery/meshery), Playground, and Kanvas to the list of awesome DevOps tools.  
+  ✅ [PR #2 – Create README.md](https://github.com/James-Kua/Awesome-DevOps/pull/2) – Merged  
+
+
 ## 🌍 Let's Connect  
 
 <p align="center">  
